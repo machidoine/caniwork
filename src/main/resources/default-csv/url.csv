@@ -1,0 +1,3 @@
+"serviceType","name","url"
+HTTP,google,http://google.fr
+HTTP,bad,http://blabla42.fr
